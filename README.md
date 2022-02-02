@@ -5,7 +5,7 @@ I have since tried to clean up teh teams orginal rushed code and make it more su
 
 https://patycake.itch.io/techno-bug-game The link to the orginal entry. 
 
-It was super rough and not refined, reguardless I a learned alot as a leader and a developer.
+It was super rough and not refined, reguardless I learned a lot as a leader and a developer.
 
 I strongly feel every dev should write a post mortem so bellow is my post mortem.
 
